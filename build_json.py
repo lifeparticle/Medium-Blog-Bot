@@ -16,7 +16,7 @@ def compare_data(oldData, newData):
 			if fuzz.ratio(oD['title'], nD['title']) > 90:
 				seen = True
 		if seen == False:
-			data.append({"title": nD['title'], "url": nD['link']})
+			data.insert(0, {"title": nD['title'], "url": nD['link']})
 	return data
 
 def read_json_file(filename):
