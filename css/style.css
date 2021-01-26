@@ -1,0 +1,31 @@
+body, html {
+	height: 100%;
+	width: 100%;
+}
+
+div.container-fluid {
+	background-color: whitesomke;
+}
+
+ol#posts li {
+	font-size: 18px;
+	color: grey;
+	font-family: 'Roboto', sans-serif;
+}
+
+input#search_blog.form-control,
+h5 {
+	font-family: 'Roboto', sans-serif;
+}
+
+li:not(:last-child) {
+	margin-bottom: 5px;
+}
+
+input#search_blog.form-control,
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+	outline: none;
+	box-shadow: none;
+}
