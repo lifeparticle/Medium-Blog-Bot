@@ -15,6 +15,7 @@ def compare_data(oldData, newData):
 		for oD in oldData:
 			if fuzz.ratio(oD['title'], nD['title']) > 90:
 				seen = True
+				break
 		if seen == False:
 			data.insert(0, {"title": nD['title'], "url": nD['link']})
 	return data
