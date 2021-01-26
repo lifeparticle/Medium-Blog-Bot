@@ -1,5 +1,5 @@
 # Medium-Blog-Bot
-Medium Blog Bot
+![Build Json](https://github.com/lifeparticle/Medium-Blog-Bot/workflows/Build%20Json/badge.svg?branch=main)
 
 ```
 python -m http.server
