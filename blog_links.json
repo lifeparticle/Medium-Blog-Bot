@@ -54,13 +54,5 @@
     {
         "title": "How to Deploy a Python Serverless Function to Vercel",
         "url": "https://towardsdatascience.com/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0"
-    },
-    {
-        "title": "How to Connect to a PostgreSQL Database With a Python Serverless Function",
-        "url": "https://towardsdatascience.com/how-to-connect-to-a-postgresql-database-with-a-python-serverless-function-f5f3b244475?source=rss-4430950b9342------2"
-    },
-    {
-        "title": "How to Run PostgreSQL and pgAdmin Using Docker",
-        "url": "https://towardsdatascience.com/how-to-run-postgresql-and-pgadmin-using-docker-3a6a8ae918b5?source=rss-4430950b9342------2"
     }
 ]
