@@ -126,5 +126,9 @@
     {
         "title": "How to Dockerize an Existing Sinatra Application",
         "url": "https://towardsdatascience.com/how-to-dockerize-an-existing-sinatra-application-3a6943d7a428?source=rss-4430950b9342------2"
+    },
+    {
+        "title": "How To Dockerize an Existing Ruby on Rails Application",
+        "url": "https://towardsdatascience.com/how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392?source=rss-4430950b9342------2"
     }
 ]
