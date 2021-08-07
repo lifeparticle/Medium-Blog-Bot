@@ -146,5 +146,9 @@
     {
         "title": "How to Deploy a React Application to Netlify",
         "url": "https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-netlify-e120d2de2654?source=rss-4430950b9342------2"
+    },
+    {
+        "title": "How To Dockerize an Existing React Application",
+        "url": "https://towardsdatascience.com/how-to-dockerize-an-existing-react-application-c27bd8517dcb?source=rss-4430950b9342------2"
     }
 ]
